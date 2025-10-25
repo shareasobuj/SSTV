@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SSTV - Smart Learning TV</title>
 <style>
-body{margin:0;font-family:Arial,sans-serif;background: orange;}
-header{background:#green;color:white;padding:15px;text-align:center;}
+body{margin:0;font-family:Arial,sans-serif;background: Lightpurple ;}
+header{background:green;color:white;padding:15px;text-align:center;}
 header h1{margin:0;font-size:24px;}
 nav{background:#0074cc;display:flex;justify-content:center;flex-wrap:wrap;}
 nav button{margin:5px;padding:10px 20px;border:none;border-radius:5px;background:white;color:#0074cc;font-weight:bold;cursor:pointer;transition:0.3s;}
